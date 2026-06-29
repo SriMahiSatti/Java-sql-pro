@@ -1,2 +1,0 @@
-# Java-sql-pro
-Java
